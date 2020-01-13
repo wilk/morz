@@ -1,0 +1,8 @@
+{
+  "appId": "com.morse.app",
+  "appName": "morse",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
